@@ -58,7 +58,7 @@ const Achievements = () => {
     {
       title: 'Portfolio Website Launch',
       description: 'Designed and deployed a responsive developer portfolio website showcasing my custom projects and academic stats.',
-      date: '2024',
+      date: '2026',
       icon: <Trophy className="w-5 h-5" />,
       category: 'Project',
       glowColor: 'from-orange-500 to-amber-500',
@@ -81,7 +81,7 @@ const Achievements = () => {
     { label: 'Projects Completed', value: '10+', textGlow: 'from-blue-400 to-indigo-400', shadow: 'shadow-blue-500/5' },
     { label: 'Technologies Learned', value: '10+', textGlow: 'from-green-400 to-emerald-400', shadow: 'shadow-emerald-500/5' },
     { label: 'GitHub Repositories', value: '30+', textGlow: 'from-purple-400 to-pink-400', shadow: 'shadow-purple-500/5' },
-    { label: 'Certifications', value: '3', textGlow: 'from-orange-400 to-amber-400', shadow: 'shadow-orange-500/5' }
+    { label: 'Certifications', value: '30+', textGlow: 'from-orange-400 to-amber-400', shadow: 'shadow-orange-500/5' }
   ];
 
   const futureGoals = [
