@@ -61,14 +61,15 @@ const Skills = () => {
       skills: [
         { name: 'Git & GitHub', level: 70, status: 'Daily Use' },
         { name: 'VS Code', level: 80, status: 'Daily Use' },
-        { name: 'Node.js', level: 45, status: 'Intermediate' }
+        { name: 'Node.js', level: 45, status: 'Intermediate' },
+        { name: 'Docker', level: 30, status: 'Learning' }
       ]
     }
   ];
 
   const interests = [
-    { name: 'Artificial Intelligence', icon: <Brain className="w-5 h-5" />, glowColor: 'group-hover:shadow-purple-500/30 border-purple-500/20 text-purple-400 bg-purple-500/10' },
-    { name: 'App Development', icon: <Smartphone className="w-5 h-5" />, glowColor: 'group-hover:shadow-emerald-500/30 border-emerald-500/20 text-emerald-400 bg-emerald-500/10' },
+    { name: 'AI and ML', icon: <Brain className="w-5 h-5" />, glowColor: 'group-hover:shadow-purple-500/30 border-purple-500/20 text-purple-400 bg-purple-500/10' },
+    { name: 'Web App Development', icon: <Smartphone className="w-5 h-5" />, glowColor: 'group-hover:shadow-emerald-500/30 border-emerald-500/20 text-emerald-400 bg-emerald-500/10' },
     { name: 'Open Source', icon: <GitBranch className="w-5 h-5" />, glowColor: 'group-hover:shadow-orange-500/30 border-orange-500/20 text-orange-400 bg-orange-500/10' },
     { name: 'Problem Solving', icon: <Code className="w-5 h-5" />, glowColor: 'group-hover:shadow-blue-500/30 border-blue-500/20 text-blue-400 bg-blue-500/10' }
   ];
