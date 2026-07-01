@@ -133,26 +133,6 @@ The contact form is integrated with [Formspree](https://formspree.io/) for relia
 - Subject (required)
 - Message (required)
 
-## 🚀 Deployment
-
-This project can be easily deployed to various platforms:
-
-### Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy automatically on push to main branch
-
-### Vercel
-1. Import project from GitHub
-2. Vercel will automatically detect Vite configuration
-3. Deploy with zero configuration
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add deploy script to package.json
-3. Run: `npm run deploy`
-
 ## 🤝 Contributing
 
 While this is a personal portfolio, I welcome suggestions and feedback:
@@ -177,4 +157,4 @@ While this is a personal portfolio, I welcome suggestions and feedback:
 
 ---
 
-*Last updated: July 2025*
+*Last updated: July 2026*
