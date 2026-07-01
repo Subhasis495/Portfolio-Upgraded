@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://sdportfolio-sandy.vercel.app/)
+[View Live Portfolio](https://portfolio-upgraded-zeta.vercel.app/)
 
 ## 📋 Table of Contents
 
@@ -49,41 +49,14 @@ This is my personal portfolio website where I showcase my journey as a Computer 
 - **Icons**: Lucide React
 - **Build Tool**: Vite
 - **Form Handling**: Formspree
-- **Deployment**: Netlify
+- **Deployment**: Vercel
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Subhasis495/FUTURE_FS_01.git
-   cd portfolio-website
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the website
-
-### Build for Production
-
-```bash
-npm run build
-```
+- npm 
 
 
 ## 📁 Project Structure
@@ -189,10 +162,6 @@ While this is a personal portfolio, I welcome suggestions and feedback:
 3. Commit your changes (`git commit -am 'Add some improvement'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License]
 
 ## 📞 Contact
 
